@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ngo, I have nothing special.
+- 👋 Hi, I’m Ngo, I have nothing special
 .
 
 <!---
